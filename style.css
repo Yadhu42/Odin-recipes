@@ -1,0 +1,97 @@
+body{
+    background-color: #FBA518;
+    
+}
+
+.container{
+    text-align: center;
+    padding: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+
+.title{
+    width: 650px;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 40px;
+    background-color: #E52020;
+    padding: 8px;
+    color: #F9CB43;
+    border: 5px solid black;
+   
+}
+
+.menu{
+    list-style:none;
+    font-size: 30px;
+    margin-top: 200px;
+}
+
+#FC{
+    margin-bottom: 30px;
+}
+
+#MC{
+    margin-bottom: 30px;
+}
+
+#GS{
+    margin-bottom: 30px;
+}
+
+.ftitle{
+    background-color: #E52020;
+    padding: 8px;
+    width: 1150px;
+    margin: 0 auto;
+    font-size: 25px;
+    border: solid black;
+    text-decoration: underline;
+    text-decoration-thickness: 5px;
+}
+
+.foodimg{
+    border: solid 4px black;
+}
+
+.categories{
+    background-color: #E52020;
+    width: 850px;
+    margin: 10px auto;
+    padding: 5px;
+    border: solid black;
+}
+
+.desc{
+    width: 1150px;
+    margin: 10px auto;
+    padding: 8px;
+    border: solid black;
+}
+
+.ing{
+    width: 1150px;
+    margin: 10px auto;
+    padding: 8px;
+    background-color: #F9CB43;
+    border: solid black;
+}
+
+.prep{
+    width: 1150px;
+    margin: 10px auto;
+    padding: 8px;
+    border: solid black;
+    background-color: #A89C29;
+}
+
+ol,ul{
+    list-style: none;
+}
+
+#back{
+    border: solid;
+}
+
+
